@@ -1,2 +1,2 @@
 # Convert-VCF-file-to-.arp-file
-The .arp file is an input for the Arlequin software.
+The .arp file is an input for the Arlequin software. Arlequin is a population Genetics software for analyzing patterns of genetic diversity within and between population samples that use the genetic data to extract information on the mating system, the extent of population subdivision, the past demography of the population, or on departure from selective neutrality at some loci based on a variety of markers (mitochondrial DNA (mtDNA) sequences and microsatellites, and fragment length polymorphisms (RFLP) and DNA sequences. 
