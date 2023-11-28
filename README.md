@@ -11,7 +11,7 @@ The .arp file is an input for the Arlequin software. `Arlequin` is a population 
 #### Step 4 : Install VCF2ArlequinDiploid on ubuntu 
 
 
-## Run the commands to convert .VCF file to .arp file
+** Run the commands to convert .VCF file to .arp file
         #Run the command
         How to Make input(.arp/.hap) for Arlequin from VCF file 
 
