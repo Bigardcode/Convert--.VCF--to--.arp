@@ -1,5 +1,4 @@
-![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
-
+![GUID-B6D60E78-8A28-47AE-B95D-1E1F23EB8022](https://github.com/Bigardcode/Convert--.VCF--to--.arp/assets/84800557/97314a67-e858-4e3f-a36d-7898f43f85b5)
 
 # How to Convert .VCF--to--.arp/.hap 
 
