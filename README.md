@@ -12,11 +12,11 @@ The .arp file is an input for the Arlequin software. `Arlequin` is a population 
 
 ### Step 1: Check the VCF file to make sure that is in corrected format
        ls direction
-# Step 2 
-Convert the VCF file into CSV
-# Step 3 
-Make sure you sort your individuals by population so that they are all grouped together
-# Step 4
-Install VCF2ArlequinDiploid on ubuntu 
-# Step 5
-Run the commands to convert .VCF file to .arp file
+### Step 2 : Convert the VCF file into CSV
+       ls direction 
+### Step 3: Make sure you sort your individuals by population so that they are all grouped together
+        ls direction
+### Step 4 : Install VCF2ArlequinDiploid on ubuntu 
+        ls direction
+### Step 5 : Run the commands to convert .VCF file to .arp file
+
