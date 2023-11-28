@@ -15,23 +15,26 @@ The .arp file is an input for the Arlequin software. `Arlequin` is a population 
 - Step 4 : Install VCF2ArlequinDiploid on ubuntu 
 
 ### Run the commands to convert .VCF file to .arp file
+How to Make input(.arp/.hap) for Arlequin from VCF file 
+
 ----
 
-        #Run the command
-        How to Make input(.arp/.hap) for Arlequin from VCF file 
 
-        # Setup VCF2ArlequinDiploid--------------------------------------------------------
+
+        #Run the command
+        
+        >>> Setup VCF2ArlequinDiploid--------------------------------------------------------
 
         $ wget https://github.com/Sandman2127/VCF2ArlequinDiploid/archive/refs/heads/master.zip
         $ gunzip master.zip
 
-        # Run vcf2ArlequinDiploid analysis--------------------------------------------------
-        # Split the input .vcf data into several output .arp files by contig
+        >>> Run vcf2ArlequinDiploid analysis--------------------------------------------------
+        #Split the input .vcf data into several output .arp files by contig
 
         $ python vcf2ArlequinDiploid.py --vcf snps.vcf --popFile PoPulation.txt  --splitContigs
 
 
-       # Merge the input .vcf data into one output .arp file
+      >>> Merge the input .vcf data into one output .arp file
 
        $ python vcf2ArlequinDiploid.py --vcf snps.vcf --popFile PoPulation.txt
 
